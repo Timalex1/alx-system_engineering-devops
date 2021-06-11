@@ -1,2 +1,2 @@
-#!/bin/bash
-ls -la ./ ../ /boot
+0;136;0c#!/bin/bash
+ls -la . .. /boot
