@@ -1,0 +1,1 @@
+**This folder describes commands for shell permissions**
