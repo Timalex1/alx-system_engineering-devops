@@ -1,0 +1,1 @@
+This is a project containing commands relating to the UNIX bash shell
