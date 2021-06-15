@@ -1,0 +1,4 @@
+#!/bin/bash
+name=$(whoami)
+if[ $USER -eq $name]
+then
