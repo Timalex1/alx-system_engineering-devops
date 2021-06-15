@@ -1,7 +1,2 @@
 #!/bin/bash
-name=$(whoami)
-if[ $USER -eq $name]
-then
- echo "hello $USER"
-else
- echo "User $USER is not logged in"
+echo "hello $USER"
